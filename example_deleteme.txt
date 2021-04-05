@@ -1,3 +1,9 @@
 This is a file I can delete
 
 Adding one more line
+
+
+Another line to make new log
+
+Always use git add after making changes and then add git commit -m to add message log
+
