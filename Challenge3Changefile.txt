@@ -1,1 +1,3 @@
 I made this file for the "change" for challenge #3
+
+I'm adding another line after Dennis solved the branch issue we had. 
