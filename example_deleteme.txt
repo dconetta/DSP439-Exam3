@@ -7,3 +7,5 @@ Another line to make new log
 
 Always use git add after making changes and then add git commit -m to add message log
 
+Changing a line and submitting a pull request for Challenge 3.
+
