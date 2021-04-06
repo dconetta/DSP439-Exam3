@@ -1,3 +1,5 @@
+I am editing the first line for my branch for Challenge 3. Seeing if I can get the "Challege_3" Branch to show up.
+
 This is a file I can delete
 
 Adding one more line
