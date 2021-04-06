@@ -1,3 +1,5 @@
+I am editing the first line for my branch for Challenge 3
+
 This is a file I can delete
 
 Adding one more line
